@@ -4,7 +4,7 @@
 
 ## 视频演示
 
-![](http://images-manager.oss-cn-shanghai.aliyuncs.com/2019/trust-scripts/trust-scripts-01.gif)
+![](https://images-manager.oss-cn-shanghai.aliyuncs.com/2019/trust-scripts/trust-scripts-01.gif)
 
 [trust-scripts-template](https://v.youku.com/v_show/id_XNDI0MTYxNTI1Mg==.html?spm=a2h3j.8428770.3416059.1)
 
