@@ -1,7 +1,7 @@
 {
-  "name": "trust-scripts-demo",
+  "name": "trust-scripts-template",
   "version": "1.0.0",
-  "description": "trust-scripts demo",
+  "description": "trust-scripts template",
   "main": "index.js",
   "scripts": {
     "start": "trust-scripts dev",
@@ -9,11 +9,11 @@
   },
   "keywords": [
     "trust-scripts",
-    "trust-scripts-demo"
+    "trust-scripts-template"
   ],
-  "author": "BeAce",
-  "repository": "git@gitlab.com:BeAce/trust-scripts.git",
-  "license": "ISC",
+  "author": "BeAce <beaceshimin@gmail.com>",
+  "repository": "git@github.com:BeAce/trust-scripts-template.git",
+  "license": "MIT",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
