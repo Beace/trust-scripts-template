@@ -1,0 +1,21 @@
+{
+  "name": "trust-scripts-demo",
+  "version": "1.0.0",
+  "description": "trust-scripts demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "trust-scripts dev",
+    "build": "trust-scripts build"
+  },
+  "keywords": [
+    "trust-scripts",
+    "trust-scripts-demo"
+  ],
+  "author": "BeAce",
+  "repository": "git@gitlab.com:BeAce/trust-scripts.git",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  }
+}
