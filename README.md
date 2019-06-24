@@ -4,7 +4,7 @@
 
 ## 视频演示
 
-https://v.youku.com/v_show/id_XNDI0MTYxNTI1Mg==.html?spm=a2h3j.8428770.3416059.1
+<iframe height=498 width=510 src='http://player.youku.com/embed/XNDI0MTYxNTI1Mg==' frameborder=0 'allowfullscreen'></iframe>
 
 ## 本地开发
 
