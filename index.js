@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import styles from './index.less';
 
-class AppTest extends React.Component {
+class App extends React.PureComponent {
   render() {
     return (
       <h1 className={styles.title}>Hello,Trust Scripts!!!</h1>
@@ -10,4 +10,4 @@ class AppTest extends React.Component {
   }
 }
 
-ReactDOM.render(<AppTest />, document.getElementById('root-test'));
+ReactDOM.render(<App />, document.getElementById('root'));
