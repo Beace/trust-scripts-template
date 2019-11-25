@@ -1,22 +1,25 @@
 # trust-script-template
 
-该项目为 [trust-script](https://gitlab.com/BeAce/trust-scripts-template) 项目单独抽离出来的 template 演示项目
+The simple template for [trust-script](https://gitlab.com/BeAce/trust-scripts).
 
-## 视频演示
+## Show Case
+
+See [trust-scripts-template](https://beacelee.com/trust-scripts-template/).
+
 
 ![trust-scripts](https://images-manager.oss-cn-shanghai.aliyuncs.com/2019/trust-scripts/trust-scripts-01.gif)
 
 [trust-scripts-template](https://v.youku.com/v_show/id_XNDI0MTYxNTI1Mg==.html?spm=a2h3j.8428770.3416059.1)
 
-## 本地开发
+## Development
 
 ```sh
-npm link trust-scripts
+npm install
 npm start
 ```
 
-## 生产环境
+## Production
 
 ```sh
-trust-scripts build
+npm run  build
 ```
