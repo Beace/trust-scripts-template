@@ -1,4 +1,4 @@
-# trust-script-template
+# trust-script-template ![](https://github.com/BeAce/trust-scripts-template/workflows/CI/badge.svg)
 
 The simple template for [trust-script](https://gitlab.com/BeAce/trust-scripts).
 
